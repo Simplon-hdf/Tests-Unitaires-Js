@@ -10,7 +10,7 @@ Voici un petit template sur la base des tests unitaires.
 
 ```
 
-Les packages utiles sont présents dans dans le dossier, **Faites Attention, il faut installer mocha !**.
+Les packages utiles sont présents dans dans le dossier, **Faites Attention, il faut installer mocha !**
 
 
 ---
